@@ -1,0 +1,1 @@
+I have loaded my dataset and calculated mean, median and mode.
